@@ -2,10 +2,10 @@
 Took me almost three days to finish this configuration
 
 # system information
-OS: Ubuntu 22.04.1 LTS x86_64 
-Shell: bash 5.1.16 
-Font: DejaVu Sans Mono
-Font Size: 15
+OS: Ubuntu 22.04.1 LTS x86_64  
+Shell: bash 5.1.16  
+Font: DejaVu Sans Mono  
+Font Size: 15  
 VIM - Vi IMproved 8.2
 
 ## some useful websites 
