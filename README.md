@@ -7,3 +7,6 @@ Took me almost three days to finish this configuration
 [Build Statuslines](https://shapeshed.com/vim-statuslines/)  
 [Vim Scripting Cheatsheet](https://devhints.io/vimscript)  
 [Auto-Complete with Vim](https://linuxhint.com/vim_auto_complete/)
+
+## some issues
+Be sure to add configurations in .bashrc for the powerline so that arrows sighs could show up in statuslines
