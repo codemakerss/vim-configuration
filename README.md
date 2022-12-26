@@ -17,3 +17,5 @@ VIM - Vi IMproved 8.2
 
 ## some issues
 Be sure to add configurations in .bashrc for the powerline so that arrows sighs could show up in statuslines
+
+## final view
