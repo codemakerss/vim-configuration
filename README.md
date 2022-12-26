@@ -19,3 +19,4 @@ VIM - Vi IMproved 8.2
 Be sure to add configurations in .bashrc for the powerline so that arrows sighs could show up in statuslines
 
 ## final view
+![Final view of Vim](https://github.com/codemakerss/vim-configuration/blob/main/pic/final_view.png)
